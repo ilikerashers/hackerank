@@ -1,0 +1,2 @@
+# hackerank
+Some hackerank solutions

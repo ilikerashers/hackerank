@@ -13,6 +13,6 @@ public class ProfitableStockPurchase {
     public LinkedList<Pair<Integer, Integer>> calculateProfitablePath(LinkedList<Integer> intervalList) {
 
 
-
+        return null;
     }
 }
